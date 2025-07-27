@@ -39,7 +39,8 @@ It publishes velocity commands to /turtle1/cmd_vel.
 The turtlesim_node subscribes to this topic to move the turtle.
 
 Use arrow keys to move the turtle.
-<img width="819" height="1053" alt="Screenshot 2025-07-27 153742"src="https://github.com/user-attachments/assets/33ca19ee-a080-4577-be64-303a2c0bcea1" />
+<img width="835" height="1039" alt="Screenshot 2025-07-27 153850" src="https://github.com/user-attachments/assets/3e50395b-556c-4e9b-be8f-14cbb3f3f167" />
+
 5. Make the First Turtle Move in a Circular Path
 Run the command:
 
