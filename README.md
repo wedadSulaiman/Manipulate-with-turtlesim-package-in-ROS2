@@ -9,7 +9,6 @@ This project demonstrates basic manipulation of turtlesim using ROS 2 commands, 
 
 Run the command:
 
-```bash
 ros2 run turtlesim turtlesim_node
 1. Starts the turtlesim_node which opens a window showing a turtle.
 
